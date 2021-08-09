@@ -8,8 +8,8 @@ import java.io.*;
 import java.util.*;
 
 public class Myprocess1 implements ExecProcess {
-    private static String musername = "18800418146";
-    private static String mpassword = "19990902zy";
+    private static String musername = "username";
+    private static String mpassword = "password";
     private WebDriver driver;
     private MyLogger log;
 
